@@ -1,5 +1,5 @@
 # ZnoteAAC-AtomIO
-Alternative dark theme layout for Znote AAC
+Alternative dark theme layout for [Znote AAC](https://github.com/Znote/ZnoteAAC).
 
 ## Installation instructions:
 1. Rename existing layout folder to etc layout_default
