@@ -10,9 +10,9 @@
 		<title><?php echo $config['site_title']; ?></title>
 
 		<!-- Stylesheet(s) -->
-		<link rel="stylesheet" href="layout/css/style.css">
-		<link rel="stylesheet" href="layout/fontawesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="layout/css/resp.css">
+		<link rel="stylesheet" href="layout/css/style.css?aio=1">
+		<link rel="stylesheet" href="layout/fontawesome/css/font-awesome.min.css?aio=1">
+		<link rel="stylesheet" href="layout/css/resp.css?aio=1">
 
 		<!-- JavaScript(s) -->
 		<script src="layout/js/jq331.js" charset="utf-8"></script>
